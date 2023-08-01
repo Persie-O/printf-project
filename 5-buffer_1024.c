@@ -56,4 +56,3 @@ int _printf(const char *format, ...) {
 }
 
 // (print_binary and other helper functions remain the same)
-
