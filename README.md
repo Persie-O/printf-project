@@ -55,3 +55,5 @@ int print_string(va_list s);/*writes the character c to stdout */
 int print_int(va_list i);/*function that prints an integer */
 int print_dec(va_list d);/* function that prints an decimal*/
 ````
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=36F729&width=435&height=100&lines=C+is+fun+right%3F%3F)](https://git.io/typing-svg)
