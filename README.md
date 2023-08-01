@@ -1,3 +1,4 @@
+# `NOTE:` You should consider the C standard of commenting if there is any issue/ warning your compiler is displaying out.
 # Printf.
 ```` c
 int _printf(const char *format, ...);
